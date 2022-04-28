@@ -11,7 +11,14 @@ iamyogeshjajoria/iamyogeshjajoria is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 Hi 👋 My name is Yogesh Jajoria
-===============================Software dev------------I am currently in high school, and have been learning coding since 2019. I\* ✉️  You can contact me at [yogeshjajoria2019@gmail.com](mailto:yogeshjajoria2019@gmail.com)
+===============================
+
+Software dev
+------------
+
+I am currently in high school, and have been learning coding since 2019. I
+
+*   ✉️  You can contact me at [yogeshjajoria2019@gmail.com](mailto:yogeshjajoria2019@gmail.com)
 
 ### Skills
 

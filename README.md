@@ -16,7 +16,7 @@ Hi 👋 My name is Yogesh Jajoria
 Software dev
 ------------
 
-I am a high schooler, programming since 2019
+A high schooler into programming
 
 *   ✉️  You can contact me at [yogeshjajoria2019@gmail.com](mailto:yogeshjajoria2019@gmail.com)
 

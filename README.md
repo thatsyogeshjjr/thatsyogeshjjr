@@ -12,9 +12,13 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi 👋 My name is Yogesh Jajoria
 ===============================
+Presenting you a karate enthusiast who’s somehow kicking bugs in code harder than in the dojo.
 
-Software dev
-------------
+Software and Robotics dev
+-------------------------
+
+
+
 
 ### Skills
 

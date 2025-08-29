@@ -10,7 +10,7 @@ I break things to learn, build fast to understand, and never wait for a syllabus
 💥 I specialize in:
 - Embedded Systems | Control Systems | Analog + Digital Electronics
 - OS & Compiler Design (yes, I wrote one… on purpose)
-- MATLAB | Simulink | C | Python | JS | Fusion 360
+- MATLAB | Simulink | C | Python | JS | Fusion 360 | Ansys
 - Turning cardboard into exoskeletons and calculators into power supplies
 
 🚀 Current Motto:  

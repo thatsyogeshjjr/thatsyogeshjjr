@@ -1,52 +1,78 @@
-# ⚡️ Hey, I’m Yogesh Jajoria
+# Yogesh Jajoria
 
-> Building the future one gear, glitch, and Git push at a time.
-
-## 🧠 About Me
-
-🎓 Robotics & AI student | 🔬 Research-driven builder | 🥋 Karate kid by dawn, hacker by dusk  
-I break things to learn, build fast to understand, and never wait for a syllabus to start shipping.
-
-💥 I specialize in:
-- Embedded Systems | Control Systems | Analog + Digital Electronics
-- OS & Compiler Design (yes, I wrote one… on purpose)
-- MATLAB | Simulink | C | Python | JS | Fusion 360 | Ansys
-- Turning cardboard into exoskeletons and calculators into power supplies
-
-🚀 Current Motto:  
-**“If it works, great. If it breaks, even better — now I know what not to do.”**
-
-## 🔧 Current Projects
-
-- 🦾 Lower Limb & Arm Exoskeleton Prototypes (Cardboard → Real)
-- ⚙️ Modular Electronics for Research-Grade Robotics (No MCU? No Problem.)
-- ✈️ RC Plane from Scratch – Full-stack aero-mech-electro build
-- 🧠 Self-Study CS + Biz Degree Sprint (Because why not both?)
-- 🤖 Hacking up AI and Robotics with my CCE potato [@maahiWritesLogic](https://github.com/mahiWritesLogic)
-
-## 🧰 Tools I Love
-
-- 🛠️ KiCAD, MATLAB, VS Code, Terminal, Logic Analyzers, Oscilloscopes
-- 📊 I turn calculators into number-crunching beasts (yes, even CW-991FX)
-- 🎯 Design style? Tony Stark meets Tokyo garage
-
-## 🌱 Always Learning
-
-- High-speed learning sprints in everything from AI pipelines to Web3
-- How to teach without teaching: summer school initiative in progress
-- Building real-world systems before the world expects me to
-
-## 💡 Fun Facts
-
-- I believe discipline ≠ dullness (try karate at 4am and soldering at 4pm)
-- My violin is slowly forgiving me for the 6-month break
-- I think faster with a problem than with a prompt
+**Robotics Systems Engineer | Control, Simulation & Human–Machine Interfaces**  
+IEEE Webmaster @ MUJ | Research-driven prototyping
 
 ---
 
-### 👾 Let’s Connect
+## Overview
 
-Feel free to dive into my repos, borrow an idea, remix a schematic, or just say hey.  
-If you want to build weird and wild stuff that actually *works* — we’ll get along just fine.
+I work on robotics systems with an emphasis on control, simulation, and human–machine interfaces.  
+My focus is on understanding how systems behave under real-world constraints by moving between theory, modeling, and physical prototyping.
 
-> _“Learning fast. Building faster. Breaking just enough to evolve.”_
+This GitHub is a living archive of experiments, replications, and exploratory builds developed alongside an independent, structured curriculum in robotics systems research.
+
+---
+
+## What I Work On
+
+- Robotics systems modeling and control  
+- Simulation-first analysis (MATLAB / Simulink, Python)  
+- Embedded systems and electronics (analog + digital)  
+- Human–machine interfaces and wearable robotics  
+- System-level prototyping driven by failure and iteration  
+
+---
+
+## Selected Projects & Experiments
+
+- **Lower Limb & Arm Exoskeleton Prototypes**  
+  Exploratory mechanical and electronic builds to study actuation, sensing, and control limits.
+
+- **Modular Electronics for Research-Grade Robotics**  
+  Designing modular electronic subsystems with minimal abstraction to preserve system intuition.
+
+- **RC Plane — Full Stack Aero–Mech–Electro Build**  
+  End-to-end design focusing on dynamics, control surfaces, and power systems.
+
+- **Simulation & Replication Studies**  
+  Recreating and stress-testing robotics and control concepts from literature to expose assumptions and failure modes.
+
+---
+
+## Tools & Methods
+
+- MATLAB / Simulink  
+- Python, C  
+- KiCad, Fusion 360  
+- Oscilloscopes, logic analyzers  
+- Embedded prototyping and test instrumentation  
+
+---
+
+## How I Think
+
+I treat engineering as a process of making systems legible.  
+If it works, good.  
+If it breaks, even better — now I know where not to trust the model.
+
+I enjoy hacking up AI and robotics with limited resources, questionable hardware, and a willingness to learn by breaking things  
+(*sometimes with my CCE potato, courtesy of @maahiWritesLogic*).
+
+---
+
+## Background
+
+Undergraduate at Manipal University Jaipur (MUJ).  
+IEEE Student Branch Webmaster.  
+Pursuing research-driven prototyping alongside formal coursework.
+
+---
+
+## Let’s Talk
+
+If you’re interested in systems-level robotics, replication studies, or exploratory prototyping, feel free to reach out.
+
+---
+
+*Learning fast. Building rigor. Breaking just enough to understand.*

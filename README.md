@@ -1,10 +1,5 @@
 # Yogesh Jajoria
 
-**Robotics Systems Engineer | Control, Simulation & Human–Machine Interfaces**  
-IEEE Webmaster @ MUJ | Research-driven prototyping
-
----
-
 ## Overview
 
 I work on robotics systems with an emphasis on control, simulation, and human–machine interfaces.  
@@ -26,17 +21,14 @@ This GitHub is a living archive of experiments, replications, and exploratory bu
 
 ## Selected Projects & Experiments
 
-- **Lower Limb & Arm Exoskeleton Prototypes**  
-  Exploratory mechanical and electronic builds to study actuation, sensing, and control limits.
+- **Control System Replication & Analysis**
+  Recreating classical and modern control systems in simulation to study stability, sensitivity, and failure modes beyond ideal assumptions.
 
-- **Modular Electronics for Research-Grade Robotics**  
-  Designing modular electronic subsystems with minimal abstraction to preserve system intuition.
-
-- **RC Plane — Full Stack Aero–Mech–Electro Build**  
-  End-to-end design focusing on dynamics, control surfaces, and power systems.
-
-- **Simulation & Replication Studies**  
-  Recreating and stress-testing robotics and control concepts from literature to expose assumptions and failure modes.
+- **Simulation-First Robotics Experiments**
+  Small-scale robotics experiments explored through modeling and simulation before hardware implementation, focusing on system behavior and constraints.
+  
+- **Technical Notes & Research Logs**
+  Structured notes and experiments documenting insights from robotics literature, simulations, and failed implementations, maintained as reproducible references.
 
 ---
 

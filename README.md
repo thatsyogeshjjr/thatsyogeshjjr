@@ -19,19 +19,6 @@ This GitHub is a living archive of experiments, replications, and exploratory bu
 
 ---
 
-## Selected Projects & Experiments
-
-- **Control System Replication & Analysis**
-  Recreating classical and modern control systems in simulation to study stability, sensitivity, and failure modes beyond ideal assumptions.
-
-- **Simulation-First Robotics Experiments**
-  Small-scale robotics experiments explored through modeling and simulation before hardware implementation, focusing on system behavior and constraints.
-  
-- **Technical Notes & Research Logs**
-  Structured notes and experiments documenting insights from robotics literature, simulations, and failed implementations, maintained as reproducible references.
-
----
-
 ## Tools & Methods
 
 - MATLAB / Simulink  
@@ -41,19 +28,6 @@ This GitHub is a living archive of experiments, replications, and exploratory bu
 - Embedded prototyping and test instrumentation  
 
 ---
-
-## How I Think
-
-I treat engineering as a process of making systems legible.  
-If it works, good.  
-If it breaks, even better — now I know where not to trust the model.
-
-I enjoy hacking up AI and robotics with limited resources, questionable hardware, and a willingness to learn by breaking things  
-(*sometimes with my CCE potato, courtesy of @maahiWritesLogic*).
-
----
-
-## Background
 
 Undergraduate at Manipal University Jaipur (MUJ).  
 IEEE Student Branch Webmaster.  

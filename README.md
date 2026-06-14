@@ -21,18 +21,16 @@ This GitHub is a living archive of experiments, replications, and exploratory bu
 
 ## Tools & Methods
 
-- MATLAB / Simulink  
-- Python, C  
-- KiCad, Fusion 360  
-- Oscilloscopes, logic analyzers  
-- Embedded prototyping and test instrumentation  
+- MATLAB / Simulink
+- ROS2, Gazebo, Webots, OpenSim
+- Python, C, C++, Js  
+- KiCad, Fusion 360, Ansys  
 
 ---
 
 Undergraduate at Manipal University Jaipur (MUJ).  
-IEEE Student Branch Webmaster.  
+IEEE SB Tech Projects Mentor 
 Pursuing research-driven prototyping alongside formal coursework.
-
 ---
 
 ## Let’s Talk

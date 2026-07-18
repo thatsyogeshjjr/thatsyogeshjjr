@@ -1,42 +1,19 @@
 # Yogesh Jajoria
 
-## Overview
+> Exploring robotics through first principles—building mathematical models, simulations, and physical systems to understand how they behave under real-world constraints.
 
-I work on robotics systems with an emphasis on control, simulation, and human–machine interfaces.  
-My focus is on understanding how systems behave under real-world constraints by moving between theory, modeling, and physical prototyping.
+This GitHub is a living archive of experiments, reproductions, and research-oriented prototypes.
 
-This GitHub is a living archive of experiments, replications, and exploratory builds developed alongside an independent, structured curriculum in robotics systems research.
+```yaml
+currently:
+  - Educator @ Vectra
+  - Technical Projects Mentor @ IEEE Student Branch, MUJ
+  - Technical Director @ TEDx MUJ
 
----
+interests:
+  - Control
+  - Mechanism Design
+  - Human–Machine Interaction
+  - Embedded Systems
 
-## What I Work On
-
-- Robotics systems modeling and control  
-- Simulation-first analysis (MATLAB / Simulink, Python)  
-- Embedded systems and electronics (analog + digital)  
-- Human–machine interfaces and wearable robotics  
-- System-level prototyping driven by failure and iteration  
-
----
-
-## Tools & Methods
-
-- MATLAB / Simulink
-- ROS2, Gazebo, Webots, OpenSim
-- Python, C, C++, Js  
-- KiCad, Fusion 360, Ansys  
-
----
-
-Undergraduate at Manipal University Jaipur (MUJ).  
-IEEE SB Tech Projects Mentor 
-Pursuing research-driven prototyping alongside formal coursework.
----
-
-## Let’s Talk
-
-If you’re interested in systems-level robotics, replication studies, or exploratory prototyping, feel free to reach out.
-
----
-
-*Learning fast. Building rigor. Breaking just enough to understand.*
+```

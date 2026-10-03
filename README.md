@@ -2,12 +2,15 @@
 
 > Exploring robotics through first principles—building mathematical models, simulations, and physical systems to understand how they behave under real-world constraints.
 
-This is an archive of my experiments, research reproductions, and prototypes.
+Here are my experiments, research reproductions, and prototypes
 
 ```yaml
-currently: 
+A bit about me
+currently:
+  - Volunteer Robotics Engineer @ MUJ Robotics Lab
+  - Mentor for sophomore robotics team @ MUJ Robotics Lab
   - Educator @ Vectra
-  - Technical Projects Mentor @ IEEE Student Branch, MUJ  - 
+  - Technical Projects Mentor @ IEEE Student Branch, MUJ 
 
 interests:
   - Control

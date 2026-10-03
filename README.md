@@ -5,7 +5,6 @@
 Here are my experiments, research reproductions, and prototypes
 
 ```yaml
-A bit about me
 currently:
   - Volunteer Robotics Engineer @ MUJ Robotics Lab
   - Mentor for sophomore robotics team @ MUJ Robotics Lab
